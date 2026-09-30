@@ -1,0 +1,17 @@
+{
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "SearchAgent": {
+            "runtimeId": "SearchAgent_SearchAgent-6hhTPm4MM0",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:413117505590:runtime/SearchAgent_SearchAgent-6hhTPm4MM0",
+            "roleArn": "arn:aws:iam::413117505590:role/AgentCore-SearchAgent-def-ApplicationAgentSearchAge-FnEvpQ1QdchU"
+          }
+        },
+        "stackName": "AgentCore-SearchAgent-default",
+        "deployHash": "2640dc1bb0ae56d2"
+      }
+    }
+  }
+}
